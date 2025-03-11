@@ -27,7 +27,7 @@ This project trains a Deep Q-Network (DQN) to play the classic **Snake game** us
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/snake-reinforcement-learning.git
+git clone https://github.com/SergioV3005/snake-reinforcement-learning.git
 cd snake-reinforcement-learning
 ```
 
