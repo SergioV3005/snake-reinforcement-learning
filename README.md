@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ## Running the Game
 
-### **Train the RL Agent** 🏋️‍♂️
+### **Train the RL Agent**
 Train the agent using Deep Q-Learning:
 ```bash
 python train.py
